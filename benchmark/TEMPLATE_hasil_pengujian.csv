@@ -1,0 +1,4 @@
+﻿﻿no_urut,id_skenario,grup,layer,memory_cost_kib,memory_cost_mib,time_cost,parallelism,iterasi_ke,hash_time_ms,verify_time_ms,db_query_ms,framework_overhead_ms,total_auth_time_ms,cpu_usage_pct,notes
+1,S1,A,mikro,64,0.0625,1,1,1,120.45,98.32,,,218.77,45.2,Layer mikro - tanpa DB query
+2,S1,A,mikro,64,0.0625,1,1,2,118.90,97.15,,,216.05,44.8,Layer mikro - tanpa DB query
+3,S1,A,mikro,64,0.0625,1,1,3,119.67,98.01,,,217.68,45.0,Layer mikro - tanpa DB query

@@ -1,0 +1,2 @@
+﻿id_skenario,grup,parameter_desc,layer,hash_mean_ms,hash_median_ms,hash_min_ms,hash_max_ms,hash_std_dev_ms,verify_mean_ms,verify_median_ms,verify_min_ms,verify_max_ms,verify_std_dev_ms,total_auth_mean_ms,auth_efficiency,security_perf_ratio,framework_overhead_pct,within_500ms_threshold,recommendation
+S3,B,Time cost = 3,mikro,185.23,184.90,180.12,190.56,3.21,142.67,142.30,138.45,147.89,2.89,327.90,0.216,0.173,0.0,Ya,"SECOND RECOMMENDED - Balanced security-performance"
